@@ -3,7 +3,9 @@
 Movie Search App using React Native and omdbapi
 
 ## Screen Shot
-![alt text](https://github.com/myogeshverma/Search-movie/blob/master/movie-1.png?raw=true){:height="50%" }
+<img src="https://github.com/myogeshverma/Search-movie/blob/master/movie-1.png" data-canonical-src="https://github.com/myogeshverma/Search-movie/blob/master/movie-1.png" width="200" height="400" />
+
+![alt text](https://github.com/myogeshverma/Search-movie/blob/master/movie-1.png?raw=true){:height="36px" width="36px"}
 ![alt text](https://github.com/myogeshverma/Search-movie/blob/master/movie-2.png?raw=true){:height="50%"}
 
 ## App Video Demo
