@@ -2,6 +2,14 @@
 
 Movie Search App using React Native and omdbapi
 
+## Screen Shot
+![alt text](https://github.com/myogeshverma/Search-movie/blob/master/movie-1.png?raw=true)
+![alt text](https://github.com/myogeshverma/Search-movie/blob/master/movie-2.png?raw=true)
+
+## App Video Demo
+```
+Video Link: https://vimeo.com/493791791
+```
 ## Installation using yarn
 
 Install Node Modules Using yarn or npm. Run the command in your folder after clone
